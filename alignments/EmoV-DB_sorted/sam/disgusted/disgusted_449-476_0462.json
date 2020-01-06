@@ -1,0 +1,223 @@
+{
+  "transcript": "But she swung obediently on her heel into the wind.",
+  "words": [
+    {
+      "alignedWord": "but",
+      "case": "success",
+      "end": 0.5800000000000001,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.53,
+      "startOffset": 0,
+      "word": "But"
+    },
+    {
+      "alignedWord": "she",
+      "case": "success",
+      "end": 0.8099999999999999,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.59,
+      "startOffset": 4,
+      "word": "she"
+    },
+    {
+      "alignedWord": "swung",
+      "case": "success",
+      "end": 0.8500000000000001,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 0.81,
+      "startOffset": 8,
+      "word": "swung"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 2.5100000000000002,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 2.35,
+      "startOffset": 14,
+      "word": "obediently"
+    },
+    {
+      "alignedWord": "on",
+      "case": "success",
+      "end": 2.6,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "aa_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.58,
+      "startOffset": 25,
+      "word": "on"
+    },
+    {
+      "alignedWord": "her",
+      "case": "success",
+      "end": 2.84,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "er_E"
+        }
+      ],
+      "start": 2.77,
+      "startOffset": 28,
+      "word": "her"
+    },
+    {
+      "alignedWord": "heel",
+      "case": "success",
+      "end": 3.69,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.21,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.3,
+          "phone": "l_E"
+        }
+      ],
+      "start": 3.17,
+      "startOffset": 32,
+      "word": "heel"
+    },
+    {
+      "alignedWord": "into",
+      "case": "success",
+      "end": 3.89,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 3.85,
+      "startOffset": 37,
+      "word": "into"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 3.96,
+      "endOffset": 45,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 3.9,
+      "startOffset": 42,
+      "word": "the"
+    },
+    {
+      "alignedWord": "wind",
+      "case": "success",
+      "end": 4.12,
+      "endOffset": 50,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 4.08,
+      "startOffset": 46,
+      "word": "wind"
+    }
+  ]
+}

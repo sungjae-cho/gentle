@@ -1,0 +1,195 @@
+{
+  "transcript": "Wada and Nakata were in a bit of a funk.",
+  "words": [
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 1.1099999999999999,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.54,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 0.57,
+      "startOffset": 0,
+      "word": "Wada"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 1.4200000000000002,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.12,
+      "startOffset": 5,
+      "word": "and"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 2.0300000000000002,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.56,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 1.47,
+      "startOffset": 9,
+      "word": "Nakata"
+    },
+    {
+      "alignedWord": "were",
+      "case": "success",
+      "end": 2.82,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "er_E"
+        }
+      ],
+      "start": 2.71,
+      "startOffset": 16,
+      "word": "were"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 2.9299999999999997,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.82,
+      "startOffset": 21,
+      "word": "in"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 3.02,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 2.93,
+      "startOffset": 24,
+      "word": "a"
+    },
+    {
+      "alignedWord": "bit",
+      "case": "success",
+      "end": 3.2199999999999998,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_E"
+        }
+      ],
+      "start": 3.03,
+      "startOffset": 26,
+      "word": "bit"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 3.41,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "v_E"
+        }
+      ],
+      "start": 3.22,
+      "startOffset": 30,
+      "word": "of"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 3.49,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 3.41,
+      "startOffset": 33,
+      "word": "a"
+    },
+    {
+      "alignedWord": "funk",
+      "case": "success",
+      "end": 3.8400000000000003,
+      "endOffset": 39,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ng_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "k_E"
+        }
+      ],
+      "start": 3.49,
+      "startOffset": 35,
+      "word": "funk"
+    }
+  ]
+}

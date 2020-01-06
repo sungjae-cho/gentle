@@ -1,0 +1,246 @@
+{
+  "transcript": "You want to go over and see his gang throw dirt.",
+  "words": [
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 0.7,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 0.57,
+      "startOffset": 0,
+      "word": "You"
+    },
+    {
+      "alignedWord": "want",
+      "case": "success",
+      "end": 0.95,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.7,
+      "startOffset": 4,
+      "word": "want"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 1.08,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_E"
+        }
+      ],
+      "start": 0.96,
+      "startOffset": 9,
+      "word": "to"
+    },
+    {
+      "alignedWord": "go",
+      "case": "success",
+      "end": 1.26,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 1.08,
+      "startOffset": 12,
+      "word": "go"
+    },
+    {
+      "alignedWord": "over",
+      "case": "success",
+      "end": 1.79,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "ow_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.25,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.26,
+      "startOffset": 15,
+      "word": "over"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 2.0500000000000003,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.83,
+      "startOffset": 20,
+      "word": "and"
+    },
+    {
+      "alignedWord": "see",
+      "case": "success",
+      "end": 2.3699999999999997,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.05,
+      "startOffset": 24,
+      "word": "see"
+    },
+    {
+      "alignedWord": "his",
+      "case": "success",
+      "end": 2.58,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.37,
+      "startOffset": 28,
+      "word": "his"
+    },
+    {
+      "alignedWord": "gang",
+      "case": "success",
+      "end": 3.01,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 2.61,
+      "startOffset": 32,
+      "word": "gang"
+    },
+    {
+      "alignedWord": "throw",
+      "case": "success",
+      "end": 3.38,
+      "endOffset": 42,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "th_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 3.03,
+      "startOffset": 37,
+      "word": "throw"
+    },
+    {
+      "alignedWord": "dirt",
+      "case": "success",
+      "end": 3.86,
+      "endOffset": 47,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.21,
+          "phone": "t_E"
+        }
+      ],
+      "start": 3.38,
+      "startOffset": 43,
+      "word": "dirt"
+    }
+  ]
+}

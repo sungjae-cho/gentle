@@ -1,0 +1,384 @@
+{
+  "transcript": "The butchers and meat cutters refused to handle meat destined for unfair restaurants.",
+  "words": [
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.09,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.01,
+      "startOffset": 0,
+      "word": "The"
+    },
+    {
+      "alignedWord": "butchers",
+      "case": "success",
+      "end": 1.69,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ch_I"
+        },
+        {
+          "duration": 0.21,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.33,
+      "startOffset": 4,
+      "word": "butchers"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 2.1,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.2,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.88,
+      "startOffset": 13,
+      "word": "and"
+    },
+    {
+      "alignedWord": "meat",
+      "case": "success",
+      "end": 2.28,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.11,
+      "startOffset": 17,
+      "word": "meat"
+    },
+    {
+      "alignedWord": "cutters",
+      "case": "success",
+      "end": 2.96,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.8,
+      "startOffset": 22,
+      "word": "cutters"
+    },
+    {
+      "alignedWord": "refused",
+      "case": "success",
+      "end": 4.08,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "y_I"
+        },
+        {
+          "duration": 0.3,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "z_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.5,
+      "startOffset": 30,
+      "word": "refused"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 4.5,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_E"
+        }
+      ],
+      "start": 4.43,
+      "startOffset": 38,
+      "word": "to"
+    },
+    {
+      "alignedWord": "handle",
+      "case": "success",
+      "end": 5.2299999999999995,
+      "endOffset": 47,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.27,
+          "phone": "l_E"
+        }
+      ],
+      "start": 4.77,
+      "startOffset": 41,
+      "word": "handle"
+    },
+    {
+      "alignedWord": "meat",
+      "case": "success",
+      "end": 6.279999999999999,
+      "endOffset": 52,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.23,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "t_E"
+        }
+      ],
+      "start": 5.77,
+      "startOffset": 48,
+      "word": "meat"
+    },
+    {
+      "alignedWord": "destined",
+      "case": "success",
+      "end": 7.52,
+      "endOffset": 61,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 7.38,
+      "startOffset": 53,
+      "word": "destined"
+    },
+    {
+      "alignedWord": "for",
+      "case": "success",
+      "end": 7.75,
+      "endOffset": 65,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "er_E"
+        }
+      ],
+      "start": 7.52,
+      "startOffset": 62,
+      "word": "for"
+    },
+    {
+      "alignedWord": "unfair",
+      "case": "success",
+      "end": 8.65,
+      "endOffset": 72,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "r_E"
+        }
+      ],
+      "start": 8.48,
+      "startOffset": 66,
+      "word": "unfair"
+    },
+    {
+      "alignedWord": "restaurants",
+      "case": "success",
+      "end": 8.869999,
+      "endOffset": 84,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "s_E"
+        }
+      ],
+      "start": 8.679999,
+      "startOffset": 73,
+      "word": "restaurants"
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "transcript": "The boy at the wheel lost his head.",
+  "words": [
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.34,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.32,
+      "startOffset": 0,
+      "word": "The"
+    },
+    {
+      "alignedWord": "boy",
+      "case": "success",
+      "end": 1.36,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "oy_E"
+        }
+      ],
+      "start": 1.34,
+      "startOffset": 4,
+      "word": "boy"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 10,
+      "startOffset": 8,
+      "word": "at"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.53,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.51,
+      "startOffset": 11,
+      "word": "the"
+    },
+    {
+      "alignedWord": "wheel",
+      "case": "success",
+      "end": 1.56,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "l_E"
+        }
+      ],
+      "start": 1.53,
+      "startOffset": 15,
+      "word": "wheel"
+    },
+    {
+      "alignedWord": "lost",
+      "case": "success",
+      "end": 4.35,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "t_E"
+        }
+      ],
+      "start": 4.16,
+      "startOffset": 21,
+      "word": "lost"
+    },
+    {
+      "alignedWord": "his",
+      "case": "success",
+      "end": 4.51,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "z_E"
+        }
+      ],
+      "start": 4.35,
+      "startOffset": 26,
+      "word": "his"
+    },
+    {
+      "alignedWord": "head",
+      "case": "success",
+      "end": 5.25,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.21,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "d_E"
+        }
+      ],
+      "start": 4.76,
+      "startOffset": 30,
+      "word": "head"
+    }
+  ]
+}

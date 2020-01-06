@@ -1,0 +1,143 @@
+{
+  "transcript": "Take away their foreman and they wouldn't be worth their grub.",
+  "words": [
+    {
+      "alignedWord": "take",
+      "case": "success",
+      "end": 1.44,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "k_E"
+        }
+      ],
+      "start": 1.08,
+      "startOffset": 0,
+      "word": "Take"
+    },
+    {
+      "alignedWord": "away",
+      "case": "success",
+      "end": 2.08,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.39,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 1.44,
+      "startOffset": 5,
+      "word": "away"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 15,
+      "startOffset": 10,
+      "word": "their"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 23,
+      "startOffset": 16,
+      "word": "foreman"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 27,
+      "startOffset": 24,
+      "word": "and"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 32,
+      "startOffset": 28,
+      "word": "they"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 41,
+      "startOffset": 33,
+      "word": "wouldn't"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 44,
+      "startOffset": 42,
+      "word": "be"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 50,
+      "startOffset": 45,
+      "word": "worth"
+    },
+    {
+      "alignedWord": "their",
+      "case": "success",
+      "end": 2.3899999999999997,
+      "endOffset": 56,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "r_E"
+        }
+      ],
+      "start": 2.28,
+      "startOffset": 51,
+      "word": "their"
+    },
+    {
+      "alignedWord": "grub",
+      "case": "success",
+      "end": 2.44,
+      "endOffset": 61,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "b_E"
+        }
+      ],
+      "start": 2.4,
+      "startOffset": 57,
+      "word": "grub"
+    }
+  ]
+}

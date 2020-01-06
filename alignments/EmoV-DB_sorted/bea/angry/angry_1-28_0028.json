@@ -1,0 +1,98 @@
+{
+  "transcript": "Robbery, bribery, fraud, ",
+  "words": [
+    {
+      "alignedWord": "robbery",
+      "case": "success",
+      "end": 1.2,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.21,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.21,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.5,
+      "startOffset": 0,
+      "word": "Robbery"
+    },
+    {
+      "alignedWord": "bribery",
+      "case": "success",
+      "end": 2.2800000000000002,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.22,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.54,
+      "startOffset": 9,
+      "word": "bribery"
+    },
+    {
+      "alignedWord": "fraud",
+      "case": "success",
+      "end": 2.88,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.25,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.34,
+      "startOffset": 18,
+      "word": "fraud"
+    }
+  ]
+}

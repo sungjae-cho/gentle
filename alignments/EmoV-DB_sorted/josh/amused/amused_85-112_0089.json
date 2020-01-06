@@ -1,0 +1,162 @@
+{
+  "transcript": "The nightglow was treacherous to shoot by.",
+  "words": [
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 2.5,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 2.48,
+      "startOffset": 0,
+      "word": "The"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 2.94,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.18,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 2.76,
+      "startOffset": 4,
+      "word": "nightglow"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 3.15,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.94,
+      "startOffset": 14,
+      "word": "was"
+    },
+    {
+      "alignedWord": "treacherous",
+      "case": "success",
+      "end": 3.35,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.02,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ch_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "s_E"
+        }
+      ],
+      "start": 3.2,
+      "startOffset": 18,
+      "word": "treacherous"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 3.37,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_E"
+        }
+      ],
+      "start": 3.35,
+      "startOffset": 30,
+      "word": "to"
+    },
+    {
+      "alignedWord": "shoot",
+      "case": "success",
+      "end": 4.09,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.28,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_E"
+        }
+      ],
+      "start": 3.59,
+      "startOffset": 33,
+      "word": "shoot"
+    },
+    {
+      "alignedWord": "by",
+      "case": "success",
+      "end": 4.359999999999999,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.19,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 4.09,
+      "startOffset": 39,
+      "word": "by"
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "transcript": "A shadow was creeping over Pierre's eyes.",
+  "words": [
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 1.56,
+      "endOffset": 1,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 1.43,
+      "startOffset": 0,
+      "word": "A"
+    },
+    {
+      "alignedWord": "shadow",
+      "case": "success",
+      "end": 2.56,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.3,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.02,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.62,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 1.56,
+      "startOffset": 2,
+      "word": "shadow"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 2.8,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.21,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.57,
+      "startOffset": 9,
+      "word": "was"
+    },
+    {
+      "alignedWord": "creeping",
+      "case": "success",
+      "end": 3.5,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 2.85,
+      "startOffset": 13,
+      "word": "creeping"
+    },
+    {
+      "alignedWord": "over",
+      "case": "success",
+      "end": 4.18,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "ow_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.32,
+          "phone": "er_E"
+        }
+      ],
+      "start": 3.73,
+      "startOffset": 22,
+      "word": "over"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 6.05,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 1.05,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 5.0,
+      "startOffset": 27,
+      "word": "Pierre's"
+    },
+    {
+      "alignedWord": "eyes",
+      "case": "success",
+      "end": 6.56,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ay_B"
+        },
+        {
+          "duration": 0.39,
+          "phone": "z_E"
+        }
+      ],
+      "start": 6.16,
+      "startOffset": 36,
+      "word": "eyes"
+    }
+  ]
+}

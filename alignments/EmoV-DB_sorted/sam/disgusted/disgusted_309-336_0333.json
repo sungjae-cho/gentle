@@ -1,0 +1,135 @@
+{
+  "transcript": "This is no place for you.",
+  "words": [
+    {
+      "alignedWord": "this",
+      "case": "success",
+      "end": 1.52,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.2,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.23,
+          "phone": "s_E"
+        }
+      ],
+      "start": 1.03,
+      "startOffset": 0,
+      "word": "This"
+    },
+    {
+      "alignedWord": "is",
+      "case": "success",
+      "end": 1.8900000000000001,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.21,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.53,
+      "startOffset": 5,
+      "word": "is"
+    },
+    {
+      "alignedWord": "no",
+      "case": "success",
+      "end": 2.41,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.22,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.23,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 1.96,
+      "startOffset": 8,
+      "word": "no"
+    },
+    {
+      "alignedWord": "place",
+      "case": "success",
+      "end": 3.06,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.2,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.24,
+          "phone": "s_E"
+        }
+      ],
+      "start": 2.44,
+      "startOffset": 11,
+      "word": "place"
+    },
+    {
+      "alignedWord": "for",
+      "case": "success",
+      "end": 3.51,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.28,
+          "phone": "er_E"
+        }
+      ],
+      "start": 3.07,
+      "startOffset": 17,
+      "word": "for"
+    },
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 4.2700000000000005,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.42,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 3.7,
+      "startOffset": 21,
+      "word": "you"
+    }
+  ]
+}

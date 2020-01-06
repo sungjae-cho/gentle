@@ -1,0 +1,293 @@
+{
+  "transcript": "It drowned all sound that brute agony and death may have made.",
+  "words": [
+    {
+      "alignedWord": "it",
+      "case": "success",
+      "end": 0.89,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.67,
+      "startOffset": 0,
+      "word": "It"
+    },
+    {
+      "alignedWord": "drowned",
+      "case": "success",
+      "end": 1.3599999999999999,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "aw_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.89,
+      "startOffset": 3,
+      "word": "drowned"
+    },
+    {
+      "alignedWord": "all",
+      "case": "success",
+      "end": 1.8599999999999999,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.37,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "l_E"
+        }
+      ],
+      "start": 1.38,
+      "startOffset": 11,
+      "word": "all"
+    },
+    {
+      "alignedWord": "sound",
+      "case": "success",
+      "end": 2.48,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "aw_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.32,
+      "startOffset": 15,
+      "word": "sound"
+    },
+    {
+      "alignedWord": "that",
+      "case": "success",
+      "end": 2.77,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.5,
+      "startOffset": 21,
+      "word": "that"
+    },
+    {
+      "alignedWord": "brute",
+      "case": "success",
+      "end": 2.98,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.83,
+      "startOffset": 26,
+      "word": "brute"
+    },
+    {
+      "alignedWord": "agony",
+      "case": "success",
+      "end": 4.0600000000000005,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 3.54,
+      "startOffset": 32,
+      "word": "agony"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 4.22,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_E"
+        }
+      ],
+      "start": 4.06,
+      "startOffset": 38,
+      "word": "and"
+    },
+    {
+      "alignedWord": "death",
+      "case": "success",
+      "end": 4.66,
+      "endOffset": 47,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "th_E"
+        }
+      ],
+      "start": 4.55,
+      "startOffset": 42,
+      "word": "death"
+    },
+    {
+      "alignedWord": "may",
+      "case": "success",
+      "end": 5.2,
+      "endOffset": 51,
+      "phones": [
+        {
+          "duration": 0.2,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.22,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 4.78,
+      "startOffset": 48,
+      "word": "may"
+    },
+    {
+      "alignedWord": "have",
+      "case": "success",
+      "end": 5.29,
+      "endOffset": 56,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "v_E"
+        }
+      ],
+      "start": 5.22,
+      "startOffset": 52,
+      "word": "have"
+    },
+    {
+      "alignedWord": "made",
+      "case": "success",
+      "end": 5.47,
+      "endOffset": 61,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 5.31,
+      "startOffset": 57,
+      "word": "made"
+    }
+  ]
+}

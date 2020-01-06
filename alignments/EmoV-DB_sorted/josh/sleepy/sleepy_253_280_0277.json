@@ -1,0 +1,182 @@
+{
+  "transcript": "McCoy found a stifling, poisonous atmosphere in the pent cabin.",
+  "words": [
+    {
+      "alignedWord": "mccoy",
+      "case": "success",
+      "end": 4.8,
+      "endOffset": 5,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "oy_E"
+        }
+      ],
+      "start": 4.71,
+      "startOffset": 0,
+      "word": "McCoy"
+    },
+    {
+      "alignedWord": "found",
+      "case": "success",
+      "end": 4.84,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "aw_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 4.8,
+      "startOffset": 6,
+      "word": "found"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 4.85,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 4.84,
+      "startOffset": 12,
+      "word": "a"
+    },
+    {
+      "alignedWord": "stifling",
+      "case": "success",
+      "end": 4.9799999999999995,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.02,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 4.85,
+      "startOffset": 14,
+      "word": "stifling"
+    },
+    {
+      "alignedWord": "poisonous",
+      "case": "success",
+      "end": 5.050000000000001,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "oy_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "z_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "s_E"
+        }
+      ],
+      "start": 4.98,
+      "startOffset": 24,
+      "word": "poisonous"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 44,
+      "startOffset": 34,
+      "word": "atmosphere"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 47,
+      "startOffset": 45,
+      "word": "in"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 51,
+      "startOffset": 48,
+      "word": "the"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 56,
+      "startOffset": 52,
+      "word": "pent"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 62,
+      "startOffset": 57,
+      "word": "cabin"
+    }
+  ]
+}

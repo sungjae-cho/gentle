@@ -1,0 +1,297 @@
+{
+  "transcript": "Scarcely had he uttered the name when Pierre's closing eyes shot open.",
+  "words": [
+    {
+      "alignedWord": "scarcely",
+      "case": "success",
+      "end": 2.06,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.21,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.36,
+      "startOffset": 0,
+      "word": "Scarcely"
+    },
+    {
+      "alignedWord": "had",
+      "case": "success",
+      "end": 2.36,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.19,
+      "startOffset": 9,
+      "word": "had"
+    },
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 2.56,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.36,
+      "startOffset": 13,
+      "word": "he"
+    },
+    {
+      "alignedWord": "uttered",
+      "case": "success",
+      "end": 2.96,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.59,
+      "startOffset": 16,
+      "word": "uttered"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 3.05,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 2.96,
+      "startOffset": 24,
+      "word": "the"
+    },
+    {
+      "alignedWord": "name",
+      "case": "success",
+      "end": 3.54,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.2,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "m_E"
+        }
+      ],
+      "start": 3.05,
+      "startOffset": 28,
+      "word": "name"
+    },
+    {
+      "alignedWord": "when",
+      "case": "success",
+      "end": 4.32,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_E"
+        }
+      ],
+      "start": 4.13,
+      "startOffset": 33,
+      "word": "when"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 4.930000000000001,
+      "endOffset": 46,
+      "phones": [
+        {
+          "duration": 0.61,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 4.32,
+      "startOffset": 38,
+      "word": "Pierre's"
+    },
+    {
+      "alignedWord": "closing",
+      "case": "success",
+      "end": 5.43,
+      "endOffset": 54,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "z_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 4.97,
+      "startOffset": 47,
+      "word": "closing"
+    },
+    {
+      "alignedWord": "eyes",
+      "case": "success",
+      "end": 5.97,
+      "endOffset": 59,
+      "phones": [
+        {
+          "duration": 0.32,
+          "phone": "ay_B"
+        },
+        {
+          "duration": 0.19,
+          "phone": "z_E"
+        }
+      ],
+      "start": 5.46,
+      "startOffset": 55,
+      "word": "eyes"
+    },
+    {
+      "alignedWord": "shot",
+      "case": "success",
+      "end": 7.12,
+      "endOffset": 64,
+      "phones": [
+        {
+          "duration": 0.53,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.23,
+          "phone": "t_E"
+        }
+      ],
+      "start": 6.21,
+      "startOffset": 60,
+      "word": "shot"
+    },
+    {
+      "alignedWord": "open",
+      "case": "success",
+      "end": 7.29,
+      "endOffset": 69,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ow_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_E"
+        }
+      ],
+      "start": 7.25,
+      "startOffset": 65,
+      "word": "open"
+    }
+  ]
+}

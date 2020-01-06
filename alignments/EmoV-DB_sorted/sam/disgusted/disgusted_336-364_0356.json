@@ -1,0 +1,201 @@
+{
+  "transcript": "You don't catch me at any such foolishness.",
+  "words": [
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 1.18,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 1.02,
+      "startOffset": 0,
+      "word": "You"
+    },
+    {
+      "alignedWord": "don't",
+      "case": "success",
+      "end": 1.49,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.18,
+      "startOffset": 4,
+      "word": "don't"
+    },
+    {
+      "alignedWord": "catch",
+      "case": "success",
+      "end": 2.67,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.25,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.41,
+          "phone": "ch_E"
+        }
+      ],
+      "start": 1.88,
+      "startOffset": 10,
+      "word": "catch"
+    },
+    {
+      "alignedWord": "me",
+      "case": "success",
+      "end": 3.1900000000000004,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.37,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.72,
+      "startOffset": 16,
+      "word": "me"
+    },
+    {
+      "alignedWord": "at",
+      "case": "success",
+      "end": 3.66,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "t_E"
+        }
+      ],
+      "start": 3.39,
+      "startOffset": 19,
+      "word": "at"
+    },
+    {
+      "alignedWord": "any",
+      "case": "success",
+      "end": 4.61,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.24,
+          "phone": "eh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 4.12,
+      "startOffset": 22,
+      "word": "any"
+    },
+    {
+      "alignedWord": "such",
+      "case": "success",
+      "end": 5.630000000000001,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.19,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.2,
+          "phone": "ch_E"
+        }
+      ],
+      "start": 5.15,
+      "startOffset": 26,
+      "word": "such"
+    },
+    {
+      "alignedWord": "foolishness",
+      "case": "success",
+      "end": 7.11,
+      "endOffset": 42,
+      "phones": [
+        {
+          "duration": 0.19,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "sh_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.36,
+          "phone": "s_E"
+        }
+      ],
+      "start": 6.03,
+      "startOffset": 31,
+      "word": "foolishness"
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "transcript": "To her the bridge was tambo, which is the native for taboo.",
+  "words": [
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 3.61,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 3.59,
+      "startOffset": 0,
+      "word": "To"
+    },
+    {
+      "alignedWord": "her",
+      "case": "success",
+      "end": 3.63,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "er_E"
+        }
+      ],
+      "start": 3.61,
+      "startOffset": 3,
+      "word": "her"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 3.65,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 3.63,
+      "startOffset": 7,
+      "word": "the"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 17,
+      "startOffset": 11,
+      "word": "bridge"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 21,
+      "startOffset": 18,
+      "word": "was"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 5.95,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.38,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 5.57,
+      "startOffset": 22,
+      "word": "tambo"
+    },
+    {
+      "alignedWord": "which",
+      "case": "success",
+      "end": 5.98,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ch_E"
+        }
+      ],
+      "start": 5.95,
+      "startOffset": 29,
+      "word": "which"
+    },
+    {
+      "alignedWord": "is",
+      "case": "success",
+      "end": 6.319999999999999,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "z_E"
+        }
+      ],
+      "start": 6.1,
+      "startOffset": 35,
+      "word": "is"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 6.99,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.02,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 6.92,
+      "startOffset": 38,
+      "word": "the"
+    },
+    {
+      "alignedWord": "native",
+      "case": "success",
+      "end": 7.27,
+      "endOffset": 48,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "v_E"
+        }
+      ],
+      "start": 7.22,
+      "startOffset": 42,
+      "word": "native"
+    },
+    {
+      "alignedWord": "for",
+      "case": "success",
+      "end": 7.4399999999999995,
+      "endOffset": 52,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "er_E"
+        }
+      ],
+      "start": 7.42,
+      "startOffset": 49,
+      "word": "for"
+    },
+    {
+      "alignedWord": "taboo",
+      "case": "success",
+      "end": 7.4799999999999995,
+      "endOffset": 58,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 7.4399999999999995,
+      "startOffset": 53,
+      "word": "taboo"
+    }
+  ]
+}

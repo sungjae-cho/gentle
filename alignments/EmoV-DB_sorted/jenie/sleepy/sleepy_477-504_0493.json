@@ -1,0 +1,155 @@
+{
+  "transcript": "The boy, O'Brien, was specially maltreated.",
+  "words": [
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 2.45,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.24,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 2.17,
+      "startOffset": 0,
+      "word": "The"
+    },
+    {
+      "alignedWord": "boy",
+      "case": "success",
+      "end": 2.97,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.42,
+          "phone": "oy_E"
+        }
+      ],
+      "start": 2.45,
+      "startOffset": 4,
+      "word": "boy"
+    },
+    {
+      "alignedWord": "o'brien",
+      "case": "success",
+      "end": 4.44,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "ow_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.25,
+          "phone": "n_E"
+        }
+      ],
+      "start": 3.64,
+      "startOffset": 9,
+      "word": "O'Brien"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 5.470000000000001,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "z_E"
+        }
+      ],
+      "start": 5.23,
+      "startOffset": 18,
+      "word": "was"
+    },
+    {
+      "alignedWord": "specially",
+      "case": "success",
+      "end": 6.06,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "sh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 5.47,
+      "startOffset": 22,
+      "word": "specially"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 6.789999999999999,
+      "endOffset": 42,
+      "phones": [
+        {
+          "duration": 0.73,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 6.06,
+      "startOffset": 32,
+      "word": "maltreated"
+    }
+  ]
+}

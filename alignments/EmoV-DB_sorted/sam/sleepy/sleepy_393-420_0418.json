@@ -1,0 +1,194 @@
+{
+  "transcript": "The Portuguese boy crawled nearer and nearer.",
+  "words": [
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.26,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.24,
+      "startOffset": 0,
+      "word": "The"
+    },
+    {
+      "alignedWord": "portuguese",
+      "case": "success",
+      "end": 2.68,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ch_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.75,
+      "startOffset": 4,
+      "word": "Portuguese"
+    },
+    {
+      "alignedWord": "boy",
+      "case": "success",
+      "end": 3.2,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.4,
+          "phone": "oy_E"
+        }
+      ],
+      "start": 2.73,
+      "startOffset": 15,
+      "word": "boy"
+    },
+    {
+      "alignedWord": "crawled",
+      "case": "success",
+      "end": 4.5200000000000005,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.97,
+      "startOffset": 19,
+      "word": "crawled"
+    },
+    {
+      "alignedWord": "nearer",
+      "case": "success",
+      "end": 5.35,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.31,
+          "phone": "er_E"
+        }
+      ],
+      "start": 4.67,
+      "startOffset": 27,
+      "word": "nearer"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 5.6899999999999995,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 5.659999999999999,
+      "startOffset": 34,
+      "word": "and"
+    },
+    {
+      "alignedWord": "nearer",
+      "case": "success",
+      "end": 6.47,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.38,
+          "phone": "er_E"
+        }
+      ],
+      "start": 5.6899999999999995,
+      "startOffset": 38,
+      "word": "nearer"
+    }
+  ]
+}

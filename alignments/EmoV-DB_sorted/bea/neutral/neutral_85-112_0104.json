@@ -1,0 +1,248 @@
+{
+  "transcript": "She was sleeping under his protection as sweetly as a child.",
+  "words": [
+    {
+      "alignedWord": "she",
+      "case": "success",
+      "end": 3.0100000000000002,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.99,
+      "startOffset": 0,
+      "word": "She"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 3.0399999999999996,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "z_E"
+        }
+      ],
+      "start": 3.01,
+      "startOffset": 4,
+      "word": "was"
+    },
+    {
+      "alignedWord": "sleeping",
+      "case": "success",
+      "end": 3.1,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 3.04,
+      "startOffset": 8,
+      "word": "sleeping"
+    },
+    {
+      "alignedWord": "under",
+      "case": "success",
+      "end": 3.14,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "er_E"
+        }
+      ],
+      "start": 3.1,
+      "startOffset": 17,
+      "word": "under"
+    },
+    {
+      "alignedWord": "his",
+      "case": "success",
+      "end": 3.18,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "z_E"
+        }
+      ],
+      "start": 3.15,
+      "startOffset": 23,
+      "word": "his"
+    },
+    {
+      "alignedWord": "protection",
+      "case": "success",
+      "end": 3.2600000000000002,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "sh_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_E"
+        }
+      ],
+      "start": 3.18,
+      "startOffset": 27,
+      "word": "protection"
+    },
+    {
+      "alignedWord": "as",
+      "case": "success",
+      "end": 3.2800000000000002,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "eh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "z_E"
+        }
+      ],
+      "start": 3.2600000000000002,
+      "startOffset": 38,
+      "word": "as"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 48,
+      "startOffset": 41,
+      "word": "sweetly"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 51,
+      "startOffset": 49,
+      "word": "as"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 3.31,
+      "endOffset": 53,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 3.2800000000000002,
+      "startOffset": 52,
+      "word": "a"
+    },
+    {
+      "alignedWord": "child",
+      "case": "success",
+      "end": 3.91,
+      "endOffset": 59,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "ch_B"
+        },
+        {
+          "duration": 0.19,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.31,
+      "startOffset": 54,
+      "word": "child"
+    }
+  ]
+}

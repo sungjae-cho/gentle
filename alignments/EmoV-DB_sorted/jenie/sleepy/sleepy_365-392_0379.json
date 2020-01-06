@@ -1,0 +1,108 @@
+{
+  "transcript": "How old are you, daddy.",
+  "words": [
+    {
+      "alignedWord": "how",
+      "case": "success",
+      "end": 0.78,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "aw_E"
+        }
+      ],
+      "start": 0.52,
+      "startOffset": 0,
+      "word": "How"
+    },
+    {
+      "alignedWord": "old",
+      "case": "success",
+      "end": 1.2,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ow_B"
+        },
+        {
+          "duration": 0.21,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.78,
+      "startOffset": 4,
+      "word": "old"
+    },
+    {
+      "alignedWord": "are",
+      "case": "success",
+      "end": 1.33,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "er_S"
+        }
+      ],
+      "start": 1.2,
+      "startOffset": 8,
+      "word": "are"
+    },
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 1.57,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 1.33,
+      "startOffset": 12,
+      "word": "you"
+    },
+    {
+      "alignedWord": "daddy",
+      "case": "success",
+      "end": 2.17,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.29,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.57,
+      "startOffset": 17,
+      "word": "daddy"
+    }
+  ]
+}

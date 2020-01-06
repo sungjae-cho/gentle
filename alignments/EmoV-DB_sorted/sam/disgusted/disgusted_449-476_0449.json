@@ -1,0 +1,247 @@
+{
+  "transcript": "A sinewy hand, dripping with water, was clutching the rail.",
+  "words": [
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 0.87,
+      "endOffset": 1,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 0.74,
+      "startOffset": 0,
+      "word": "A"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 2.07,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 1.2,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 0.87,
+      "startOffset": 2,
+      "word": "sinewy"
+    },
+    {
+      "alignedWord": "hand",
+      "case": "success",
+      "end": 2.7600000000000002,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.18,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.22,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.08,
+      "startOffset": 9,
+      "word": "hand"
+    },
+    {
+      "alignedWord": "dripping",
+      "case": "success",
+      "end": 4.33,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 3.86,
+      "startOffset": 15,
+      "word": "dripping"
+    },
+    {
+      "alignedWord": "with",
+      "case": "success",
+      "end": 4.65,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.21,
+          "phone": "th_E"
+        }
+      ],
+      "start": 4.33,
+      "startOffset": 24,
+      "word": "with"
+    },
+    {
+      "alignedWord": "water",
+      "case": "success",
+      "end": 5.8,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.24,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.24,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.31,
+          "phone": "er_E"
+        }
+      ],
+      "start": 4.91,
+      "startOffset": 29,
+      "word": "water"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 7.159999999999999,
+      "endOffset": 39,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.21,
+          "phone": "z_E"
+        }
+      ],
+      "start": 6.81,
+      "startOffset": 36,
+      "word": "was"
+    },
+    {
+      "alignedWord": "clutching",
+      "case": "success",
+      "end": 8.2,
+      "endOffset": 49,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ch_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 7.66,
+      "startOffset": 40,
+      "word": "clutching"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 8.389999999999999,
+      "endOffset": 53,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 8.2,
+      "startOffset": 50,
+      "word": "the"
+    },
+    {
+      "alignedWord": "rail",
+      "case": "success",
+      "end": 8.889999,
+      "endOffset": 58,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.21,
+          "phone": "l_E"
+        }
+      ],
+      "start": 8.389999,
+      "startOffset": 54,
+      "word": "rail"
+    }
+  ]
+}

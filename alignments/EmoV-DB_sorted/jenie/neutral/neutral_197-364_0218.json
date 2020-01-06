@@ -1,0 +1,189 @@
+{
+  "transcript": "The ringing of the big bell aroused him.",
+  "words": [
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.04,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 0.91,
+      "startOffset": 0,
+      "word": "The"
+    },
+    {
+      "alignedWord": "ringing",
+      "case": "success",
+      "end": 1.4,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ng_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 1.04,
+      "startOffset": 4,
+      "word": "ringing"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 1.5699999999999998,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "v_E"
+        }
+      ],
+      "start": 1.42,
+      "startOffset": 12,
+      "word": "of"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.6800000000000002,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.6,
+      "startOffset": 15,
+      "word": "the"
+    },
+    {
+      "alignedWord": "big",
+      "case": "success",
+      "end": 1.71,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "g_E"
+        }
+      ],
+      "start": 1.68,
+      "startOffset": 19,
+      "word": "big"
+    },
+    {
+      "alignedWord": "bell",
+      "case": "success",
+      "end": 2.06,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "l_E"
+        }
+      ],
+      "start": 1.71,
+      "startOffset": 23,
+      "word": "bell"
+    },
+    {
+      "alignedWord": "aroused",
+      "case": "success",
+      "end": 2.5100000000000002,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "er_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "aw_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "z_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.06,
+      "startOffset": 28,
+      "word": "aroused"
+    },
+    {
+      "alignedWord": "him",
+      "case": "success",
+      "end": 2.8,
+      "endOffset": 39,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "m_E"
+        }
+      ],
+      "start": 2.51,
+      "startOffset": 36,
+      "word": "him"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "transcript": "Whiz-zip-bang. Lop-Ear screamed with sudden anguish.",
+  "words": [
+    {
+      "alignedWord": "whiz",
+      "case": "success",
+      "end": 1.35,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.09,
+      "startOffset": 0,
+      "word": "Whiz"
+    },
+    {
+      "alignedWord": "zip",
+      "case": "success",
+      "end": 1.3800000000000001,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "z_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "p_E"
+        }
+      ],
+      "start": 1.35,
+      "startOffset": 5,
+      "word": "zip"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 13,
+      "startOffset": 9,
+      "word": "bang"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 18,
+      "startOffset": 15,
+      "word": "Lop"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 22,
+      "startOffset": 19,
+      "word": "Ear"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 31,
+      "startOffset": 23,
+      "word": "screamed"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 36,
+      "startOffset": 32,
+      "word": "with"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 43,
+      "startOffset": 37,
+      "word": "sudden"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 51,
+      "startOffset": 44,
+      "word": "anguish"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "transcript": "Manuel had one besetting sin.",
+  "words": [
+    {
+      "alignedWord": "manuel",
+      "case": "success",
+      "end": 5.56,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "l_E"
+        }
+      ],
+      "start": 5.5,
+      "startOffset": 0,
+      "word": "Manuel"
+    },
+    {
+      "alignedWord": "had",
+      "case": "success",
+      "end": 5.59,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 5.56,
+      "startOffset": 7,
+      "word": "had"
+    },
+    {
+      "alignedWord": "one",
+      "case": "success",
+      "end": 5.62,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_E"
+        }
+      ],
+      "start": 5.59,
+      "startOffset": 11,
+      "word": "one"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 24,
+      "startOffset": 15,
+      "word": "besetting"
+    },
+    {
+      "alignedWord": "sin",
+      "case": "success",
+      "end": 5.96,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_E"
+        }
+      ],
+      "start": 5.93,
+      "startOffset": 25,
+      "word": "sin"
+    }
+  ]
+}

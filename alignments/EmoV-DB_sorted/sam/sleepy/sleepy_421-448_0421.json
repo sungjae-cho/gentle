@@ -1,0 +1,116 @@
+{
+  "transcript": "By golly, the boy wins.",
+  "words": [
+    {
+      "alignedWord": "by",
+      "case": "success",
+      "end": 0.58,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 0.36,
+      "startOffset": 0,
+      "word": "By"
+    },
+    {
+      "alignedWord": "golly",
+      "case": "success",
+      "end": 1.22,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.22,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.58,
+      "startOffset": 3,
+      "word": "golly"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 2.8000000000000003,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 2.66,
+      "startOffset": 10,
+      "word": "the"
+    },
+    {
+      "alignedWord": "boy",
+      "case": "success",
+      "end": 3.15,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.24,
+          "phone": "oy_E"
+        }
+      ],
+      "start": 2.8,
+      "startOffset": 14,
+      "word": "boy"
+    },
+    {
+      "alignedWord": "wins",
+      "case": "success",
+      "end": 4.0200000000000005,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.22,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.33,
+          "phone": "z_E"
+        }
+      ],
+      "start": 3.16,
+      "startOffset": 18,
+      "word": "wins"
+    }
+  ]
+}

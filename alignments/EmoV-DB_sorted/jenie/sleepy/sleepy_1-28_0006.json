@@ -1,0 +1,237 @@
+{
+  "transcript": "God bless 'em, I hope I'll go on seeing them forever.",
+  "words": [
+    {
+      "alignedWord": "god",
+      "case": "success",
+      "end": 0.74,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.71,
+      "startOffset": 0,
+      "word": "God"
+    },
+    {
+      "alignedWord": "bless",
+      "case": "success",
+      "end": 0.88,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "s_E"
+        }
+      ],
+      "start": 0.74,
+      "startOffset": 4,
+      "word": "bless"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 13,
+      "startOffset": 10,
+      "word": "'em"
+    },
+    {
+      "alignedWord": "i",
+      "case": "success",
+      "end": 1.11,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.21,
+          "phone": "ay_S"
+        }
+      ],
+      "start": 0.9,
+      "startOffset": 15,
+      "word": "I"
+    },
+    {
+      "alignedWord": "hope",
+      "case": "success",
+      "end": 2.98,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "p_E"
+        }
+      ],
+      "start": 2.71,
+      "startOffset": 17,
+      "word": "hope"
+    },
+    {
+      "alignedWord": "i'll",
+      "case": "success",
+      "end": 3.14,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ay_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_E"
+        }
+      ],
+      "start": 2.98,
+      "startOffset": 22,
+      "word": "I'll"
+    },
+    {
+      "alignedWord": "go",
+      "case": "success",
+      "end": 3.3600000000000003,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 3.14,
+      "startOffset": 27,
+      "word": "go"
+    },
+    {
+      "alignedWord": "on",
+      "case": "success",
+      "end": 3.57,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_E"
+        }
+      ],
+      "start": 3.36,
+      "startOffset": 30,
+      "word": "on"
+    },
+    {
+      "alignedWord": "seeing",
+      "case": "success",
+      "end": 3.77,
+      "endOffset": 39,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 3.63,
+      "startOffset": 33,
+      "word": "seeing"
+    },
+    {
+      "alignedWord": "them",
+      "case": "success",
+      "end": 4.180000000000001,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "m_E"
+        }
+      ],
+      "start": 4.03,
+      "startOffset": 40,
+      "word": "them"
+    },
+    {
+      "alignedWord": "forever",
+      "case": "success",
+      "end": 4.8100000000000005,
+      "endOffset": 52,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "er_E"
+        }
+      ],
+      "start": 4.760000000000001,
+      "startOffset": 45,
+      "word": "forever"
+    }
+  ]
+}

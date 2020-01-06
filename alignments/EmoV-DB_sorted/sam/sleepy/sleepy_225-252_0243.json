@@ -1,0 +1,136 @@
+{
+  "transcript": "I only read the quotations.",
+  "words": [
+    {
+      "alignedWord": "i",
+      "case": "success",
+      "end": 1.45,
+      "endOffset": 1,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ay_S"
+        }
+      ],
+      "start": 1.44,
+      "startOffset": 0,
+      "word": "I"
+    },
+    {
+      "alignedWord": "only",
+      "case": "success",
+      "end": 1.78,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ow_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.45,
+      "startOffset": 2,
+      "word": "only"
+    },
+    {
+      "alignedWord": "read",
+      "case": "success",
+      "end": 1.93,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.78,
+      "startOffset": 7,
+      "word": "read"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 2.54,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.3,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 2.18,
+      "startOffset": 12,
+      "word": "the"
+    },
+    {
+      "alignedWord": "quotations",
+      "case": "success",
+      "end": 2.92,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "sh_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.54,
+      "startOffset": 16,
+      "word": "quotations"
+    }
+  ]
+}

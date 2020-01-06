@@ -1,0 +1,266 @@
+{
+  "transcript": "He came first a year ago, and revealed himself to Jeanne.",
+  "words": [
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 0.8200000000000001,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.25,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.52,
+      "startOffset": 0,
+      "word": "He"
+    },
+    {
+      "alignedWord": "came",
+      "case": "success",
+      "end": 1.17,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "m_E"
+        }
+      ],
+      "start": 0.82,
+      "startOffset": 3,
+      "word": "came"
+    },
+    {
+      "alignedWord": "first",
+      "case": "success",
+      "end": 1.63,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.19,
+      "startOffset": 8,
+      "word": "first"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 1.68,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ey_S"
+        }
+      ],
+      "start": 1.63,
+      "startOffset": 14,
+      "word": "a"
+    },
+    {
+      "alignedWord": "year",
+      "case": "success",
+      "end": 1.98,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "r_E"
+        }
+      ],
+      "start": 1.68,
+      "startOffset": 16,
+      "word": "year"
+    },
+    {
+      "alignedWord": "ago",
+      "case": "success",
+      "end": 2.33,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.21,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 1.98,
+      "startOffset": 21,
+      "word": "ago"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 3.29,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.07,
+      "startOffset": 26,
+      "word": "and"
+    },
+    {
+      "alignedWord": "revealed",
+      "case": "success",
+      "end": 3.74,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.29,
+      "startOffset": 30,
+      "word": "revealed"
+    },
+    {
+      "alignedWord": "himself",
+      "case": "success",
+      "end": 4.4,
+      "endOffset": 46,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "f_E"
+        }
+      ],
+      "start": 3.75,
+      "startOffset": 39,
+      "word": "himself"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 4.57,
+      "endOffset": 49,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_E"
+        }
+      ],
+      "start": 4.44,
+      "startOffset": 47,
+      "word": "to"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 4.94,
+      "endOffset": 56,
+      "phones": [
+        {
+          "duration": 0.23,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 4.71,
+      "startOffset": 50,
+      "word": "Jeanne"
+    }
+  ]
+}

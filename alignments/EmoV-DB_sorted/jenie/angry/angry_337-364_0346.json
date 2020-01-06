@@ -1,0 +1,116 @@
+{
+  "transcript": "Get down and dig in.",
+  "words": [
+    {
+      "alignedWord": "get",
+      "case": "success",
+      "end": 2.9699999999999998,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.94,
+      "startOffset": 0,
+      "word": "Get"
+    },
+    {
+      "alignedWord": "down",
+      "case": "success",
+      "end": 3.0,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "aw_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.97,
+      "startOffset": 4,
+      "word": "down"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 3.18,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.15,
+      "startOffset": 9,
+      "word": "and"
+    },
+    {
+      "alignedWord": "dig",
+      "case": "success",
+      "end": 3.21,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "g_E"
+        }
+      ],
+      "start": 3.18,
+      "startOffset": 13,
+      "word": "dig"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 3.4699999999999998,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.25,
+          "phone": "n_E"
+        }
+      ],
+      "start": 3.21,
+      "startOffset": 17,
+      "word": "in"
+    }
+  ]
+}

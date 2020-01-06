@@ -1,0 +1,192 @@
+{
+  "transcript": "And right there I saw and knew it all.",
+  "words": [
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 0.94,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.62,
+      "startOffset": 0,
+      "word": "And"
+    },
+    {
+      "alignedWord": "right",
+      "case": "success",
+      "end": 1.17,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.94,
+      "startOffset": 4,
+      "word": "right"
+    },
+    {
+      "alignedWord": "there",
+      "case": "success",
+      "end": 1.88,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.22,
+          "phone": "r_E"
+        }
+      ],
+      "start": 1.47,
+      "startOffset": 10,
+      "word": "there"
+    },
+    {
+      "alignedWord": "i",
+      "case": "success",
+      "end": 2.06,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ay_S"
+        }
+      ],
+      "start": 1.97,
+      "startOffset": 16,
+      "word": "I"
+    },
+    {
+      "alignedWord": "saw",
+      "case": "success",
+      "end": 2.99,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.19,
+          "phone": "ao_E"
+        }
+      ],
+      "start": 2.79,
+      "startOffset": 18,
+      "word": "saw"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 3.34,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.04,
+      "startOffset": 22,
+      "word": "and"
+    },
+    {
+      "alignedWord": "knew",
+      "case": "success",
+      "end": 4.25,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "y_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 3.91,
+      "startOffset": 26,
+      "word": "knew"
+    },
+    {
+      "alignedWord": "it",
+      "case": "success",
+      "end": 4.41,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 4.25,
+      "startOffset": 31,
+      "word": "it"
+    },
+    {
+      "alignedWord": "all",
+      "case": "success",
+      "end": 4.680000000000001,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.22,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "l_E"
+        }
+      ],
+      "start": 4.45,
+      "startOffset": 34,
+      "word": "all"
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "transcript": "Ah, it is growing dark and darker.",
+  "words": [
+    {
+      "alignedWord": "ah",
+      "case": "success",
+      "end": 0.88,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.4,
+          "phone": "aa_S"
+        }
+      ],
+      "start": 0.48,
+      "startOffset": 0,
+      "word": "Ah"
+    },
+    {
+      "alignedWord": "it",
+      "case": "success",
+      "end": 1.3699999999999999,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.19,
+      "startOffset": 4,
+      "word": "it"
+    },
+    {
+      "alignedWord": "is",
+      "case": "success",
+      "end": 1.57,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.37,
+      "startOffset": 7,
+      "word": "is"
+    },
+    {
+      "alignedWord": "growing",
+      "case": "success",
+      "end": 1.98,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 1.57,
+      "startOffset": 10,
+      "word": "growing"
+    },
+    {
+      "alignedWord": "dark",
+      "case": "success",
+      "end": 2.45,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "k_E"
+        }
+      ],
+      "start": 1.98,
+      "startOffset": 18,
+      "word": "dark"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 2.7,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.49,
+      "startOffset": 23,
+      "word": "and"
+    },
+    {
+      "alignedWord": "darker",
+      "case": "success",
+      "end": 3.29,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.26,
+          "phone": "er_E"
+        }
+      ],
+      "start": 2.7,
+      "startOffset": 27,
+      "word": "darker"
+    }
+  ]
+}
