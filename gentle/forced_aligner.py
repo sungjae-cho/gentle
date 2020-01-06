@@ -20,19 +20,25 @@ class ForcedAligner():
         self.mtt = MultiThreadedTranscriber(self.queue, nthreads=nthreads)
 
     def transcribe(self, wavfile, progress_cb=None, logging=None):
+        #print("self.mtt.transcribe started")
+        #print(wavfile)
         words, duration = self.mtt.transcribe(wavfile, progress_cb=progress_cb)
+        #print("self.mtt.transcribe ended")
 
         # Clear queue (would this be gc'ed?)
+        #print("Threading")
         for i in range(self.nthreads):
             k = self.queue.get()
             k.stop()
 
         # Align words
+        #print("Align words")
         words = diff_align.align(words, self.ms, **self.kwargs)
 
         # Perform a second-pass with unaligned words
         if logging is not None:
             logging.info("%d unaligned words (of %d)" % (len([X for X in words if X.not_found_in_audio()]), len(words)))
+            #print("%d unaligned words (of %d)" % (len([X for X in words if X.not_found_in_audio()]), len(words)))
 
         if progress_cb is not None:
             progress_cb({'status': 'ALIGNING'})
@@ -41,8 +47,11 @@ class ForcedAligner():
 
         if logging is not None:
             logging.info("after 2nd pass: %d unaligned words (of %d)" % (len([X for X in words if X.not_found_in_audio()]), len(words)))
+            #print("after 2nd pass: %d unaligned words (of %d)" % (len([X for X in words if X.not_found_in_audio()]), len(words)))
 
+        #print("Start to optimize")
         words = AdjacencyOptimizer(words, duration).optimize()
+        #print("Optimized")
 
         return Transcription(words=words, transcript=self.transcript)
 
