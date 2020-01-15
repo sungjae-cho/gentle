@@ -15,7 +15,7 @@ from pprint import pprint
 # DOWNLOAD THE DB AND CHANGE THIS PATH
 #path='/data2/sungjaecho/data_tts/EmoV-DB/EmoV-DB_sorted'
 resources = gentle.Resources()
-path_emov_db='/data2/sungjaecho/data_tts/EmoV-DB/EmoV-DB_sorted'
+path_emov_db='/data2/sungjaecho/data_tts/EmoV-DB/EmoV-DB'
 path_alignments = 'alignments/EmoV-DB_sorted'
 people_list = ['bea', 'jenie', 'josh', 'sam']
 emo_list = ['Amused', 'Angry', 'Disgusted', 'Neutral', 'Sleepy']
@@ -550,7 +550,7 @@ def get_db_stat():
     df_all = df_all.append({'stat': 'sum_hms', 'duration':get_hms_time(df_all[df_all.stat == 'sum']['duration'].values[0])}, ignore_index=True)
 
     print('Grouped by speakers.')
-    df_by_spk= df.groupby(['speaker', 'emotion'])['duration'].agg(['size','min', 'max', 'mean', 'std', 'sum'])
+    df_by_spk= df.groupby(['speaker'])['duration'].agg(['size','min', 'max', 'mean', 'std', 'sum'])
     df_by_spk['sum_hms'] = df_by_spk['sum'].apply(get_hms_time)
 
     print('Grouped by emotions.')
@@ -584,7 +584,7 @@ if __name__ == "__main__":
     #align_again_nan_start_end()
     #check_wrong_alignments()
     #trim_wavs_with_start_end()
-    save_db_to_csv()
+    #save_db_to_csv()
     get_db_stat()
 
     pass
