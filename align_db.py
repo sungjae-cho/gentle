@@ -15,7 +15,7 @@ from pprint import pprint
 # DOWNLOAD THE DB AND CHANGE THIS PATH
 #path='/data2/sungjaecho/data_tts/EmoV-DB/EmoV-DB_sorted'
 resources = gentle.Resources()
-path_emov_db='/data2/sungjaecho/data_tts/EmoV-DB/EmoV-DB-sr-22050-trim-sil'
+path_emov_db='/data4/data/EmoV-DB/03_EmoV-DB-sr-22050-trim-silence'
 path_alignments = 'alignments/EmoV-DB_sorted'
 people_list = ['bea', 'jenie', 'josh', 'sam']
 emo_list = ['Amused', 'Angry', 'Disgusted', 'Neutral', 'Sleepy']
@@ -377,14 +377,11 @@ def trim_silence(top_db=20):
     data = load_emov_db()
     for i, row in tqdm(data.iterrows(), total=len(data)):
         original_wav_path = row.sentence_path
-        o_wav_dir, o_wav_name = os.path.split(original_wav_path)
-        diff_sec = save_wav_start_end(original_wav_path, original_wav_path, start, end)
-        path_diffsec_dict[original_wav_path] = diff_sec
 
-        y, fs = librosa.load(ori_wav_path)
+        y, fs = librosa.load(original_wav_path)
         yt, trim_index = librosa.effects.trim(y, top_db=top_db)
 
-        librosa.output.write_wav(new_wav_path, yt, fs)
+        librosa.output.write_wav(original_wav_path, yt, fs)
 
 def align_again_nan_start_end():
 
