@@ -15,7 +15,7 @@ from pprint import pprint
 # DOWNLOAD THE DB AND CHANGE THIS PATH
 #path='/data2/sungjaecho/data_tts/EmoV-DB/EmoV-DB_sorted'
 resources = gentle.Resources()
-path_emov_db='/data2/sungjaecho/data_tts/EmoV-DB/EmoV-DB'
+path_emov_db='/data2/sungjaecho/data_tts/EmoV-DB/EmoV-DB-sr-22050-trim-sil'
 path_alignments = 'alignments/EmoV-DB_sorted'
 people_list = ['bea', 'jenie', 'josh', 'sam']
 emo_list = ['Amused', 'Angry', 'Disgusted', 'Neutral', 'Sleepy']
@@ -274,16 +274,45 @@ def play_start_end(path, start, end):
     sd.play(y[int(start*fs):int(end*fs)],fs)
 
 
-def save_wav_start_end(ori_wav_path, new_wav_path, start, end):
+def save_wav_start_end(ori_wav_path, new_wav_path, start=None, end=None):
     import librosa
 
     y,fs=librosa.load(ori_wav_path)
-    #librosa.output.write_wav(new_wav_path, y[int(start*fs):],fs)
+
+    if (start is None) or (math.isnan(start)):
+        start = 0
+    start_word_index = int(start*fs)
+    if (end is None) or (math.isnan(end)):
+        end = y.shape[-1] - 1
+    end_word_index = int(end*fs)
+
+    _, trim_index = librosa.effects.trim(y, top_db=20)
+
+    start_trim_index = trim_index[0]
+    end_trim_index = trim_index[1]
+    #librosa.output.write_wav(new_wav_path, y[start_word_index:],fs)
     # End time are wrong often.
-    if math.isnan(end):
-        librosa.output.write_wav(new_wav_path, y[int(start*fs):],fs)
+
+    max_sec_diff = 0.5
+    min_sec_diff = 0.1
+    start_time_diff = abs(start_word_index - start_trim_index) / (1.0 * fs)
+    end_time_diff = abs(end_word_index - end_trim_index) / (1.0 * fs)
+    if (min_sec_diff < start_time_diff) and (start_time_diff < max_sec_diff):
+        start_index = max(start_word_index, start_trim_index)
     else:
-        librosa.output.write_wav(new_wav_path, y[int(start*fs):int(end*fs)],fs)
+        start_index = start_trim_index
+    if (min_sec_diff < end_time_diff) and (end_time_diff < max_sec_diff):
+        end_index = min(end_word_index, end_trim_index)
+    else:
+        end_index = end_trim_index
+
+    librosa.output.write_wav(new_wav_path, y[start_index:end_index],fs)
+
+    original_sec = librosa.get_duration(y)
+    trim_sec = (end_index - start_index) / (1.0 * fs)
+    diff_sec = original_sec - trim_sec
+
+    return diff_sec
 
 
 def get_wav_duration(wav_path):
@@ -316,27 +345,46 @@ def make_alignments():
 
 
 def trim_wavs_with_start_end():
+    import operator
     error_json_path_list = list()
+    path_diffsec_dict = dict()
     data = load_emov_db(path_emov_db)
     for i, row in tqdm(data.iterrows(), total=len(data)):
         original_wav_path = row.sentence_path
         o_wav_dir, o_wav_name = os.path.split(original_wav_path)
         #json_path = 'alignments/EmoV-DB_sorted/bea/Amused/amused_1-15_0001.json'
+        json_path = os.path.join('alignments', 'EmoV-DB_sorted', row.speaker, row.emotion, '{}.json'.format(row.id))
+        start, end = get_start_end_from_json(json_path)
         try:
-            json_path = os.path.join('alignments', 'EmoV-DB_sorted', row.speaker, row.emotion, '{}.json'.format(row.id))
-            start, end = get_start_end_from_json(json_path)
-
-            if row.emotion != 'neutral':
-                save_wav_start_end(original_wav_path, original_wav_path, start, end)
+            #if row.emotion != 'neutral':
+            diff_sec = save_wav_start_end(original_wav_path, original_wav_path, start, end)
+            path_diffsec_dict[original_wav_path] = diff_sec
 
         except Exception as e:
             print(e)
             error_json_path_list.append(json_path)
     print('#Errors:', len(error_json_path_list))
     pprint(error_json_path_list)
+    sorted_path_diffsec_dict = sorted(path_diffsec_dict, key=path_diffsec_dict.get, reverse=True)
+    pprint(sorted_path_diffsec_dict[:10])
     with open('trim_except_json_path_list.txt', 'w') as f:
         f.write(str(error_json_path_list))
 
+
+def trim_silence(top_db=20):
+    import librosa
+
+    data = load_emov_db()
+    for i, row in tqdm(data.iterrows(), total=len(data)):
+        original_wav_path = row.sentence_path
+        o_wav_dir, o_wav_name = os.path.split(original_wav_path)
+        diff_sec = save_wav_start_end(original_wav_path, original_wav_path, start, end)
+        path_diffsec_dict[original_wav_path] = diff_sec
+
+        y, fs = librosa.load(ori_wav_path)
+        yt, trim_index = librosa.effects.trim(y, top_db=top_db)
+
+        librosa.output.write_wav(new_wav_path, yt, fs)
 
 def align_again_nan_start_end():
 
@@ -584,7 +632,8 @@ if __name__ == "__main__":
     #align_again_nan_start_end()
     #check_wrong_alignments()
     #trim_wavs_with_start_end()
+    trim_silence()
     #save_db_to_csv()
-    get_db_stat()
+    #get_db_stat()
 
     pass
