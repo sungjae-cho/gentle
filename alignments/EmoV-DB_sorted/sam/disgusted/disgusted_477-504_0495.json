@@ -1,0 +1,205 @@
+{
+  "transcript": "He bore no grudges and had few enemies.",
+  "words": [
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 1.3800000000000001,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.11,
+      "startOffset": 0,
+      "word": "He"
+    },
+    {
+      "alignedWord": "bore",
+      "case": "success",
+      "end": 1.89,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.18,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "r_E"
+        }
+      ],
+      "start": 1.44,
+      "startOffset": 3,
+      "word": "bore"
+    },
+    {
+      "alignedWord": "no",
+      "case": "success",
+      "end": 2.26,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.21,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 1.89,
+      "startOffset": 8,
+      "word": "no"
+    },
+    {
+      "alignedWord": "grudges",
+      "case": "success",
+      "end": 3.17,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "jh_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.24,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.3,
+      "startOffset": 11,
+      "word": "grudges"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 3.49,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.23,
+      "startOffset": 19,
+      "word": "and"
+    },
+    {
+      "alignedWord": "had",
+      "case": "success",
+      "end": 3.87,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.58,
+      "startOffset": 23,
+      "word": "had"
+    },
+    {
+      "alignedWord": "few",
+      "case": "success",
+      "end": 4.52,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "y_I"
+        },
+        {
+          "duration": 0.23,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 4.05,
+      "startOffset": 27,
+      "word": "few"
+    },
+    {
+      "alignedWord": "enemies",
+      "case": "success",
+      "end": 5.21,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "eh_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "z_E"
+        }
+      ],
+      "start": 4.59,
+      "startOffset": 31,
+      "word": "enemies"
+    }
+  ]
+}
