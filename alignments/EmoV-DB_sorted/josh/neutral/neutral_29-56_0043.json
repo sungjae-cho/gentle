@@ -285,7 +285,8 @@
       "case": "not-found-in-audio",
       "endOffset": 65,
       "startOffset": 58,
-      "word": "Gregson"
+      "word": "Gregson",
+      "end": 3.12
     }
   ]
 }

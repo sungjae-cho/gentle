@@ -173,7 +173,8 @@
       "case": "not-found-in-audio",
       "endOffset": 40,
       "startOffset": 36,
-      "word": "Beau"
+      "word": "Beau",
+      "end": 3.88
     }
   ]
 }

@@ -32,7 +32,7 @@
           "phone": "l_E"
         }
       ],
-      "start": 0.73,
+      "start": 0.48,
       "startOffset": 0,
       "word": "Manuel"
     },
@@ -101,7 +101,8 @@
       "case": "not-found-in-audio",
       "endOffset": 28,
       "startOffset": 25,
-      "word": "sin"
+      "word": "sin",
+      "end": 2.10
     }
   ]
 }

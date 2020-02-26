@@ -4,7 +4,7 @@
     {
       "alignedWord": "if",
       "case": "success",
-      "end": 1.97,
+      "end": 1.59,
       "endOffset": 2,
       "phones": [
         {
@@ -16,7 +16,7 @@
           "phone": "f_E"
         }
       ],
-      "start": 1.95,
+      "start": 0.92,
       "startOffset": 0,
       "word": "If"
     },
@@ -39,7 +39,7 @@
           "phone": "t_E"
         }
       ],
-      "start": 1.97,
+      "start": 1.59,
       "startOffset": 3,
       "word": "not"
     },

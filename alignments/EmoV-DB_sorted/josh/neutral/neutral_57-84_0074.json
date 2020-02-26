@@ -180,7 +180,8 @@
       "case": "not-found-in-audio",
       "endOffset": 47,
       "startOffset": 44,
-      "word": "him"
+      "word": "him",
+      "end": 2.76
     }
   ]
 }

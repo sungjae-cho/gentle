@@ -151,7 +151,8 @@
       "case": "not-found-in-audio",
       "endOffset": 35,
       "startOffset": 30,
-      "word": "cried"
+      "word": "cried",
+      "end": 2.62
     }
   ]
 }

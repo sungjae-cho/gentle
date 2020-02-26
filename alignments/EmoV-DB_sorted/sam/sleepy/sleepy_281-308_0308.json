@@ -250,7 +250,8 @@
       "case": "not-found-in-audio",
       "endOffset": 60,
       "startOffset": 58,
-      "word": "it"
+      "word": "it",
+      "end": 7.00
     }
   ]
 }

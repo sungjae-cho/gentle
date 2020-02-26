@@ -282,7 +282,8 @@
       "case": "not-found-in-audio",
       "endOffset": 65,
       "startOffset": 59,
-      "word": "Jeanne"
+      "word": "Jeanne",
+      "end": 4.02
     }
   ]
 }

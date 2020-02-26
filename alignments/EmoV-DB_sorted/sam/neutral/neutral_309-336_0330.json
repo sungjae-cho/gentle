@@ -186,7 +186,8 @@
       "case": "not-found-in-audio",
       "endOffset": 46,
       "startOffset": 42,
-      "word": "deed"
+      "word": "deed",
+      "end": 2.54
     }
   ]
 }

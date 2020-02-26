@@ -183,7 +183,8 @@
       "case": "not-found-in-audio",
       "endOffset": 40,
       "startOffset": 38,
-      "word": "it"
+      "word": "it",
+      "end": 2.85
     }
   ]
 }

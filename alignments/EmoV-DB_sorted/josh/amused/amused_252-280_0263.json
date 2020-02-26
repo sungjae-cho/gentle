@@ -183,7 +183,8 @@
       "case": "not-found-in-audio",
       "endOffset": 46,
       "startOffset": 41,
-      "word": "bowed"
+      "word": "bowed",
+      "end": 4.15
     }
   ]
 }

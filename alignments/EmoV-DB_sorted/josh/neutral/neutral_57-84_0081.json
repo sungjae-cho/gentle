@@ -173,7 +173,8 @@
       "case": "not-found-in-audio",
       "endOffset": 36,
       "startOffset": 32,
-      "word": "rock"
+      "word": "rock",
+      "end": 1.48
     }
   ]
 }

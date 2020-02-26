@@ -85,7 +85,8 @@
       "case": "not-found-in-audio",
       "endOffset": 27,
       "startOffset": 21,
-      "word": "double"
+      "word": "double",
+      "end": 2.1
     }
   ]
 }

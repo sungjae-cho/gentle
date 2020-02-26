@@ -163,7 +163,8 @@
       "case": "not-found-in-audio",
       "endOffset": 35,
       "startOffset": 32,
-      "word": "law"
+      "word": "law",
+      "end": 2.43
     }
   ]
 }

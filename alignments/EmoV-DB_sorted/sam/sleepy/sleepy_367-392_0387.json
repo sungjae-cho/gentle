@@ -20,7 +20,7 @@
           "phone": "b_E"
         }
       ],
-      "start": 0.72,
+      "start": 0.35,
       "startOffset": 0,
       "word": "Bob"
     },
@@ -303,7 +303,8 @@
       "case": "not-found-in-audio",
       "endOffset": 70,
       "startOffset": 67,
-      "word": "Mab"
+      "word": "Mab",
+      "end": 8.45
     }
   ]
 }

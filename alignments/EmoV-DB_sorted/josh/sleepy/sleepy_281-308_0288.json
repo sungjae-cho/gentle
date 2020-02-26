@@ -141,7 +141,8 @@
       "case": "not-found-in-audio",
       "endOffset": 37,
       "startOffset": 33,
-      "word": "last"
+      "word": "last",
+      "end": 4.07
     }
   ]
 }
